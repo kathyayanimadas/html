@@ -1,0 +1,91 @@
+A block-level element always starts on a new line and takes up the full width available
+An inline element does not start on a new line and it only takes up as much width as necessary
+The <div> element is a block-level element and is often used as a container for other HTML elements
+The <span> element is an inline container used to mark up a part of a text, or a part of a document
+<ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dl>	Defines a description list
+<dt>	Defines a term in a description list
+<dd>	Describes the term in a description list<abbr>	Defines an abbreviation or acronym
+<address>	Defines contact information for the author/owner of a document
+<bdo>	Defines the text direction
+<blockquote>	Defines a section that is quoted from another source
+<cite>	Defines the title of a work
+<q>	Defines a short inline quotation
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+<mark>	Defines marked/highlighted text
+Use the style attribute for styling HTML elements
+Use background-color for background color
+Use color for text colors
+Use font-family for text fonts
+Use font-size for text sizes
+Use text-align for text alignment
+td stands for table data.
+tr stands for table row.
+th stands for table header.
+<caption>	Defines a table caption
+<colgroup>	Specifies a group of one or more columns in a table for formatting
+<col>	Specifies column properties for each column within a <colgroup> element
+<thead>	Groups the header content in a table
+<tbody>	Groups the body content in a table
+<tfoot>	Groups the footer content in a table
+<p>	Defines a paragraph
+<hr>	Defines a thematic change in the content
+<br>	Inserts a single line break
+<pre>	Defines pre-formatted text
+<html>	Defines the root of an HTML document
+<body>	Defines the document's body
+<h1> to <h6>	Defines HTML headings
+All HTML elements can have attributes
+The href attribute of <a> specifies the URL of the page the link goes to
+<a href="url">link text</a>
+The src attribute of <img> specifies the path to the image to be displayed
+The width and height attributes of <img> provide size information for images
+<img src="url" alt="alternatetext">
+The alt attribute of <img> provides an alternate text for an image
+The style attribute is used to add styles to an element, such as color, font, size, and more
+The lang attribute of the <html> tag declares the language of the Web page
+The title attribute defines some extra information about an element
+<!-- Write your comments here -->
+Use the target attribute to define where to open the linked document
+Use the <img> element (inside <a>) to use an image as a link
+Use the mailto: scheme inside the href attribute to create a link that opens the user's email program
+<img src="programming.gif" alt="Computer Man" style="width:48px;height:48px;">
+A favicon is a small image displayed next to the page title in the browser tab.
+ <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<script>	Defines a client-side script
+<noscript>	Defines an alternate content for users that do not support client-side scripts
+<video>	Defines a video or movie
+<source>	Defines multiple media resources for media elements, such as <video> and <audio>
+<track>	Defines text tracks in media players
+<header> - Defines a header for a document or a section
+<nav> - Defines a set of navigation links
+<section> - Defines a section in a document
+<article> - Defines independent, self-contained content
+<aside> - Defines content aside from the content (like a sidebar)
+<footer> - Defines a footer for a document or a section
+<details> - Defines additional details that the user can open and close on demand
+<summary> - Defines a heading for the <details> element
+<kbd> element is used to define keyboard input.
+<article>	Defines independent, self-contained content
+<aside>	Defines content aside from the page content
+<details>	Defines additional details that the user can view or hide
+<figcaption>	Defines a caption for a <figure> element
+<figure>	Specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+<footer>	Defines a footer for a document or section
+<header>	Specifies a header for a document or section
+<main>	Specifies the main content of a document
+<mark>	Defines marked/highlighted text
+<nav>	Defines navigation links
+<section>	Defines a section in a document
+<summary>	Defines a visible heading for a <details> element
+<time>	Defines a date/time
